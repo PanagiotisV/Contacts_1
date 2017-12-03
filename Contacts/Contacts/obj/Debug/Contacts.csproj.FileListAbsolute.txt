@@ -1,0 +1,10 @@
+C:\Users\Παναγιώτης\Desktop\ergasies\C#\Contacts\Contacts\bin\Debug\Contacts.exe.config
+C:\Users\Παναγιώτης\Desktop\ergasies\C#\Contacts\Contacts\bin\Debug\Contacts.exe
+C:\Users\Παναγιώτης\Desktop\ergasies\C#\Contacts\Contacts\bin\Debug\Contacts.pdb
+C:\Users\Παναγιώτης\Desktop\ergasies\C#\Contacts\Contacts\obj\Debug\Contacts.csprojResolveAssemblyReference.cache
+C:\Users\Παναγιώτης\Desktop\ergasies\C#\Contacts\Contacts\obj\Debug\Contacts.Form1.resources
+C:\Users\Παναγιώτης\Desktop\ergasies\C#\Contacts\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+C:\Users\Παναγιώτης\Desktop\ergasies\C#\Contacts\Contacts\obj\Debug\Contacts.csproj.GenerateResource.Cache
+C:\Users\Παναγιώτης\Desktop\ergasies\C#\Contacts\Contacts\obj\Debug\Contacts.csproj.CoreCompileInputs.cache
+C:\Users\Παναγιώτης\Desktop\ergasies\C#\Contacts\Contacts\obj\Debug\Contacts.exe
+C:\Users\Παναγιώτης\Desktop\ergasies\C#\Contacts\Contacts\obj\Debug\Contacts.pdb
